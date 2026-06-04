@@ -80,12 +80,12 @@ const PRODUCT_DB = `
    - PRESCRIPTION REQUIRED
 
 10. PANTOPRAZOLE 40mg Tablets (Pantocid / Pan-D / Pantop)
-    - Uses: GERD, stomach ulcers, Zollinger-Ellison syndrome, H. pylori eradication
-    - Dosage: 1 tablet before breakfast daily
-    - Contraindications: Hypersensitivity to PPIs
-    - Side effects: Headache, flatulence, nausea, vitamin B12 deficiency (long-term)
-    - Storage: Below 25°C
-    - Price: ₹30–₹90 per strip
+     - Uses: GERD, stomach ulcers, Zollinger-Ellison syndrome, H. pylori eradication
+     - Dosage: 1 tablet before breakfast daily
+     - Contraindications: Hypersensitivity to PPIs
+     - Side effects: Headache, flatulence, nausea, vitamin B12 deficiency (long-term)
+     - Storage: Below 25°C
+     - Price: ₹30–₹90 per strip
 `;
 
 const SYSTEM_PROMPT = `You are MedInfo Assistant — an intelligent, empathetic AI for a professional pharmacy. You help patients and pharmacists with product-related queries using the internal database below.
